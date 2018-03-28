@@ -1,4 +1,5 @@
 # dfply_exploration
-Explore the python package dfply which faciliates data munging very similar to dplyr package in R
+Data Scientists spend most of their time cleaning data is a well-known fact.
 
-Refer to the python notebook for detailed explanation
+dfply is a spectacular package for data munging in python which closely resembles the dplyr package in R. I would recommend it to anyone who is comfortable with R and would want to leverage the machine learning packages in python without having to learn the python syntax for data munging.
+Please refer to the jupyter notebook for sample dfply codes along with their equivalent dplyr codes
